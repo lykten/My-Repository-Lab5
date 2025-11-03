@@ -9,7 +9,7 @@
 * **Group:** *KN-125dsg*  
 * **Date:** *03.11.2025*
 ## Description
-Hi! I am Kiril, a student currently learning programming and version control systems.  
+Hi! I am Kiril, a student currently learning programming. 
 This repository is created for completing my Git & GitHub laboratory work and improving my Markdown formatting skills.
 ## My favorite university subjects
 1. Mathematics   
