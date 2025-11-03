@@ -26,19 +26,26 @@ This repository is created for completing my Git & GitHub laboratory work and im
 ## My favorite math formulas
 
 Here are some of my favorite math formulas:
+
 $$
 a^2 + b^2 = c^2
 $$ 
+
 ,- this is the formula for the ratio of the sides of a right triangle according to the Pythagorean theorem.
+
 
 $$
 x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$  
+
 ,- this is a formula for finding the roots of quadratic equations using the discriminant.
+
 
 $$
 \cos^2\alpha + \cos^2\beta + \cos^2\gamma = 1
 $$
+
+
 ,- this formula expresses the relation between the direction cosines (α, β, γ) of a vector in 3D space - their squares always sum up to 1.
 
 ## My coding skills
